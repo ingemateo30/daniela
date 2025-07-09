@@ -216,7 +216,7 @@ const MysteriousPage = () => {
               &quot;Eres luz en días grises,<br />
               sonrisa que conquista,<br />
               de 7 letras tu nombre,<br />
-              ¿quién eres, alma artista?&quot;
+              ¿quién eres jajaja?&quot;
             </p>
 
             <div className="space-y-4">
