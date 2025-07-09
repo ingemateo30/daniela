@@ -23,8 +23,10 @@ const MysteriousPage = () => {
   const sweetQuotes = [
     "Algunas personas hacen que el mundo sea más hermoso...esa eres tu 🌸",
     "Cada momento contigo es un regalo 🎁",
+    "Eres la definición perfecta de belleza 🌺",
     "Eres una persona increíblemente especial ✨",
-    "Eres la mujer mas hermosa del mundo 🌟"
+    "Eres la mujer mas hermosa del mundo 💝",
+    "Simplemente eres tu,unica y perfecta 💎"
   ];
 
   // Fase de misterio inicial
