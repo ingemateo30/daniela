@@ -13,7 +13,7 @@ const StreetFood911App = () => {
 
   const restaurantInfo = {
     name: "911 Street Food",
-    phone: "+57 300 911 0911",
+    phone: "+57 3007015239",
     address: "Socorro, Santander",
     hours: "Todos los días"
   };
@@ -660,7 +660,7 @@ const StreetFood911App = () => {
     }
     
     const message = encodeURIComponent(generateWhatsAppMessage());
-    const whatsappUrl = `https://wa.me/573009110911?text=${message}`;
+    const whatsappUrl = `https://wa.me/573007015239?text=${message}`;
     window.open(whatsappUrl, '_blank');
   };
 
